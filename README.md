@@ -90,7 +90,7 @@ If you want a link without description you can copy the following code.
           <div class="absolute bottom-0 right-0 w-1 h-full duration-300 origin-top transform scale-y-0 bg-gray-800 group-hover:scale-y-100"></div>
           <div class="relative flex items-center justify-between p-5 bg-white rounded-sm">
             <div class="pr-4">
-                <h6 class="font-semibold leading-5">Instagram</h6>
+                <h6 class="font-semibold leading-5">LoremIpsum</h6>
             </div>
             <div class="flex items-center justify-center">
               <svg class="w-3 text-gray-700 transition-colors duration-200 group-hover:text-deep-purple-accent-400" fill="currentColor" viewBox="0 0 12 12">
