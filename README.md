@@ -20,7 +20,7 @@
 
 ## Built With
 
-🖼🎨 [HTML](https://wiki.selfhtml.org/wiki/HTML)<br>
+💻 [HTML](https://wiki.selfhtml.org/wiki/HTML)<br>
 🖼🎨 [TailwindCSS](https://tailwindcss.com/)
 
 
