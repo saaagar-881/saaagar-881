@@ -15,8 +15,6 @@
   </p>
 </p>
 
-<img src="https://www.hub.flaced.de/index.php/apps/files_sharing/publicpreview/5ESjLokRdE3T32y?x=1920&y=587&a=true&file=linktree.png&scalingup=0">
-
 
 ## Built With
 
