@@ -19,7 +19,7 @@
 ## Built With
 
 💻 [HTML](https://wiki.selfhtml.org/wiki/HTML)<br>
-🖼🎨 [TailwindCSS](https://tailwindcss.com/)
+🎨 [TailwindCSS](https://tailwindcss.com/)
 
 
 ## Getting Started
