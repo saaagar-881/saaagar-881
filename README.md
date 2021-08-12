@@ -2,19 +2,8 @@
    <br />
     <br />
 
-<img src="https://cdn.discordapp.com/attachments/473791464665776143/875317608616984596/screely-1628762360488.png" alt="" />
+<img src="https://cdn.discordapp.com/attachments/513841145542082602/875322775521361970/Untitled.png" alt="" />
 
-  <h3 align="center">A simple HTML link tree created with TailwindCSS.</h3>
-
-  <p align="center">
-    It is super easy to use this link tree.
-    <br />
-    <br />
-    <a href="https://upbeat-dubinsky-abcc9c.netlify.app/">View Demo</a>
-    ·
-    <a href="https://tailwindcss.com/">TailwindCSS</a>
-  </p>
-</p>
 
 
 ## Built With
