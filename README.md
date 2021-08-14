@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/473791464665776143/875367182018687046/banner.png" alt="" />
+<img src="https://cdn.discordapp.com/attachments/513841145542082602/876063460763500574/img.png" alt="" />
 
 ## Introduction
 
