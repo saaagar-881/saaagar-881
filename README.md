@@ -1,5 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/513841145542082602/876063460763500574/img.png" alt="" />
 
+### ⁉ Our documentation website is currently under construction. Please be patient. In the meantime you are welcome to visit our releases. <br /><br />
+
 ## Introduction
 
 The link tree is completely open-source, and can be used exactly as you want. To make things easier, the link tree is made with TailwindCSS.
