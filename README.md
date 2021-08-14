@@ -5,6 +5,7 @@
 There are three different ways to use this dashboard:<br>
 You can download this code and host it on your own host. You can also just add it to your Netlify/ or Vercel account with one click.
 
+> ‼ Attention! Hosting at Netlify and Vercel is recommended only after the link tree has been processed! (Fork this project to create your link tree)
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/flaced/simple-html-linktree)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/flaced/simple-html-linktree)
