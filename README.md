@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/513841145542082602/876063460763500574/img.png" alt="" />
 
-### ⁉ Our documentation website is currently under construction. Please be patient. In the meantime you are welcome to visit our releases. <br /><br />
+### Our documentation website is currently under construction. Please be patient. In the meantime you are welcome to visit our releases. <br /><br />
 
 ## Introduction
 
